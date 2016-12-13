@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/briandennis/WhyYouNoImageCorrectly/issues"
   },
-  "homepage": "https://github.com/briandennis/WhyYouNoImageCorrectly#readme"
+  "homepage": "https://github.com/briandennis/WhyYouNoImageCorrectly#readme",
+  "dependencies": {
+    "nightmare": "^2.8.1"
+  }
 }
