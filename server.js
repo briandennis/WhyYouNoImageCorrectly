@@ -7,8 +7,14 @@ if (!process.argv[2]) {
 var URL = process.argv[2];
 console.log(URL);
 
-imageFinder.getPage(URL, function(page){
-    console.log(page);
+imageFinder.getID(URL, function(page, err){
+    if (err) {
+        console.error(err);
+        process.exit(1);
+    }
+    else {
+        
+    }
 })
 
 /****** Param Parser ******/
