@@ -1,0 +1,19 @@
+{
+  "name": "why-you-no-image-correctly",
+  "version": "1.0.0",
+  "description": "Don't worry about it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briandennis/WhyYouNoImageCorrectly.git"
+  },
+  "author": "Spence and Brian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briandennis/WhyYouNoImageCorrectly/issues"
+  },
+  "homepage": "https://github.com/briandennis/WhyYouNoImageCorrectly#readme"
+}
