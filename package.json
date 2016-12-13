@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/briandennis/WhyYouNoImageCorrectly#readme",
   "dependencies": {
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "nightmare": "^2.8.1"
   }
 }
